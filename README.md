@@ -1,6 +1,7 @@
 <p align="center"> 
   <img src="https://i.imgur.com/WokKYJC.png" alt="Smiley face" height="150" width="150" left="50">
-  # Rasper
+  <br>
+  <h1>Rasper</h1>
 </p>
 
 <br>
