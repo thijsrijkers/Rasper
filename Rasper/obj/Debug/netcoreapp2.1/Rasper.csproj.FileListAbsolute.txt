@@ -1,0 +1,11 @@
+D:\!!!Rasper\Rasper\bin\Debug\netcoreapp2.1\Rasper.deps.json
+D:\!!!Rasper\Rasper\bin\Debug\netcoreapp2.1\Rasper.runtimeconfig.json
+D:\!!!Rasper\Rasper\bin\Debug\netcoreapp2.1\Rasper.runtimeconfig.dev.json
+D:\!!!Rasper\Rasper\bin\Debug\netcoreapp2.1\Rasper.dll
+D:\!!!Rasper\Rasper\obj\Debug\netcoreapp2.1\Rasper.csprojAssemblyReference.cache
+D:\!!!Rasper\Rasper\obj\Debug\netcoreapp2.1\Rasper.csproj.CoreCompileInputs.cache
+D:\!!!Rasper\Rasper\obj\Debug\netcoreapp2.1\Rasper.AssemblyInfoInputs.cache
+D:\!!!Rasper\Rasper\obj\Debug\netcoreapp2.1\Rasper.AssemblyInfo.cs
+D:\!!!Rasper\Rasper\bin\Debug\netcoreapp2.1\Rasper.pdb
+D:\!!!Rasper\Rasper\obj\Debug\netcoreapp2.1\Rasper.dll
+D:\!!!Rasper\Rasper\obj\Debug\netcoreapp2.1\Rasper.pdb
