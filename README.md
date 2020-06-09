@@ -16,8 +16,9 @@ He is one of the main developers of DsharpPlus what is used to create Rasper
 <br>
 =============================================================================<br>
 <br>
-To use Rasper you need to make three things: <br>
 <p align="center"> 
+To use Rasper you need to make three things: <br>
+<br>
 A bot account: https://dsharpplus.github.io/articles/getting_started/bot_application.html <br>
 <br>
 A project: https://dsharpplus.github.io/articles/getting_started/basic_bot.html <br>
