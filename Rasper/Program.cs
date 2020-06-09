@@ -24,7 +24,7 @@ namespace Rasper
         {
             discord = new DiscordClient(new DiscordConfiguration
             {
-                Token = "NzE5ODU5NDg2MTAxMDc4MTI4.Xt91SA.8isJG9teWN7suNEmseiZzRZi7TA",
+                Token = "____ENTER___TOKEN____HERE",
                 TokenType = TokenType.Bot,
                 UseInternalLogHandler = true,
                 LogLevel = LogLevel.Debug
