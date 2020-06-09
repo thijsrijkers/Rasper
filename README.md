@@ -36,14 +36,14 @@ The setup of Rasper is very simplified. Its so easy that you only need to make t
 <br>
 <br>
 <br>
-  Commands bot:
-  !lavalink play (link)
-  !lavalink join
-  !lavalink stop
-  !lavalink volume
-  !lavalink nowplaying
-  !advise
-  !github
+  Commands bot:<br>
+  !lavalink play (link)<br>
+  !lavalink join<br>
+  !lavalink stop<br>
+  !lavalink volume<br>
+  !lavalink nowplaying<br>
+  !advise<br>
+  !github<br>
 <br>
   <b> All the commands are still worked on atm </b>
   <br>
