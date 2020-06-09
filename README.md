@@ -17,7 +17,6 @@ He is one of the main developers of DsharpPlus what is used to create Rasper
 Support needed? Join our little discord server:
 <br>
 https://discord.gg/pYBF6n
-  <a href="https://discord.gg/pYBF6n" rel="nofollow"><img src="https://camo.githubusercontent.com/01ce3abdd5c53590b546c357ed92c2a1a8b8a7bd/68747470733a2f2f646973636f72642e636f6d2f6170692f6775696c64732f3337393337383630393934323536303737302f656d6265642e706e673f7374796c653d62616e6e657231" alt="Rasper Support" data-canonical-src="https://discord.com/api/guilds/379378609942560770/embed.png?style=banner1" style="max-width:100%;"></a>
 <br>
 </p>
 <br>
