@@ -74,10 +74,22 @@
               "target": "Package",
               "version": "[2.2.0, )"
             },
+            "FM.LiveSwitch.Opus": {
+              "target": "Package",
+              "version": "[1.8.1.24993, )"
+            },
             "Microsoft.NETCore.App": {
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
+            },
+            "OpusDotNet": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "libsodium": {
+              "target": "Package",
+              "version": "[1.0.18, )"
             }
           },
           "imports": [

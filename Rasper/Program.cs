@@ -1,10 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
+using Discord.Commands;
 using DSharpPlus;
 using DSharpPlus.CommandsNext;
 using DSharpPlus.Lavalink;
 using DSharpPlus.Net;
+
 
 namespace Rasper
 {
@@ -22,7 +24,7 @@ namespace Rasper
         {
             discord = new DiscordClient(new DiscordConfiguration
             {
-                Token = "---ENTER YOUR BOT TOKEN HERE---",
+                Token = "NzE5ODU5NDg2MTAxMDc4MTI4.Xt91SA.8isJG9teWN7suNEmseiZzRZi7TA",
                 TokenType = TokenType.Bot,
                 UseInternalLogHandler = true,
                 LogLevel = LogLevel.Debug
