@@ -9,24 +9,28 @@
 =============================================================================<br>
 <br>
 <br>
+<p align="center"> 
 Credits to @Naamloos for help.
 He is one of the main developers of DsharpPlus what is used to create Rasper
-<br>
+</p>
 <br>
 =============================================================================<br>
 <br>
 To use Rasper you need to make three things: <br>
-<br>
+<p align="center"> 
 A bot account: https://dsharpplus.github.io/articles/getting_started/bot_application.html <br>
 <br>
 A project: https://dsharpplus.github.io/articles/getting_started/basic_bot.html <br>
 <br>
 Lavalink: https://github.com/Frederikam/Lavalink <br>
+</p>
 <br>
 ============================================================================= <br>
 <br>
+<p align="center"> 
 Rasper is a work in progress project. <br>
 There we be more content/work soon. <br>
+</p>
 <br>
 ============================================================================= <br>
 <br>
